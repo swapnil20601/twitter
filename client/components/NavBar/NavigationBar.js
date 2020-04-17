@@ -59,7 +59,7 @@ const NavBar = () => {
                   to="/swapnil"
                   className={activePath === "/swapnil" ? classes.Color : ""}
                 >
-                  Tweet Content
+                  Search Tweets
                 </MDBLink>
               </MDBNavItem>
               <MDBNavItem
@@ -74,7 +74,7 @@ const NavBar = () => {
                     activePath === "/swapnil/jadhav" ? classes.Color : ""
                   }
                 >
-                  Tweet Finder
+                  Random Tweets
                 </MDBLink>
               </MDBNavItem>
               <MDBNavItem>

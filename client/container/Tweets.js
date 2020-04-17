@@ -11,9 +11,8 @@ class Tweets extends Component {
           <NavBar />
         </header>
         <main class="mt-4">
-          <Homepage />
-          {/* <p>Tweert Content</p>
-          <p>Tweet finder</p> */}
+          <Homepage /> 
+          {/* <h1>Tweert Content</h1> */}
         </main>
         <footer>
           <Footer />
